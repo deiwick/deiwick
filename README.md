@@ -1,7 +1,4 @@
-<!-- Cyberpunk Banner -->
-<p align="center">
-  <img src="https://your-cyberpunk-banner-link-here" alt="Cyberpunk Banner" width="100%" />
-</p>
+
 
 # 👋 Hey, I'm Deiwick Tarun
 
