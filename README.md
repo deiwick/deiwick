@@ -11,7 +11,8 @@
 ## 🚀 Current Projects
 - 🔐 Reviving the cybersecurity club with national affiliations (OWASP, ISSA, GDG, etc.)
 - ⚡ Rootimus Prime Linux – meme-driven, security-focused OS
-- 📚 Preparing for Google Big Code Qualifier Round
+- 📚 Preparing for Google Summer of Code 2026 (GSoC)
+
 
 ---
 
