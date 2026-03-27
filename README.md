@@ -43,7 +43,10 @@
 ---
 
 ## 🏅 Achievements
-- 🥇 Selected for Google Big Code 2026
+- 🥇 3x Winner at National Level Technical Symposium
+- 🎖️ Winner at Kotlin Buildathon '26,  Chennai
+- 🎖️ Top 50 in National Level Hackathon
+- 🎖️ Winner at National Level Techfest for Student '23
 - 🎖️ Accepted into NVIDIA 6G Developer Program
 - 🌐 Cybersecurity internships & bug bounty contributions
 
@@ -58,7 +61,7 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/dxoixoxi"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://instagram.com/dxoixoi"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/></a>
   <a href="mailto:tarundeiwick@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
   <a href="https://github.com/deiwick"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
