@@ -3,7 +3,9 @@
 # 👋 Hey, I'm Deiwick Tarun
 
 ⚡ *Turning cybersecurity into cinematic storytelling*  
-💻 *Founder & Lead of Cybersecurity Club*  
+💻 *Founder & Lead of Cybersecurity Club* 
+⚡ *Co-founder & CEO of Sujesst Infotech*
+*https://sujesst-tech.netlify.app/*
 🌍 *Building Rootimus Prime Linux & empowering open-source communities*
 
 ---
@@ -11,7 +13,6 @@
 ## 🚀 Current Projects
 - 🔐 Reviving the cybersecurity club with national affiliations (OWASP, ISSA, GDG, etc.)
 - ⚡ Rootimus Prime Linux – meme-driven, security-focused OS
-- 📚 Preparing for Google Summer of Code 2026 (GSoC)
 
 
 ---
@@ -47,7 +48,6 @@
 - 🎖️ Winner at Kotlin Buildathon '26,  Chennai
 - 🎖️ Top 50 in National Level Hackathon
 - 🎖️ Winner at National Level Techfest for Student '23
-- 🎖️ Accepted into NVIDIA 6G Developer Program
 - 🌐 Cybersecurity internships & bug bounty contributions
 
 ---
