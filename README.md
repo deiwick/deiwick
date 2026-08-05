@@ -3,9 +3,13 @@
 # 👋 Hey, I'm Deiwick Tarun
 
 ⚡ *Turning cybersecurity into cinematic storytelling*  
+
 💻 *Founder & Lead of Cybersecurity Club* 
+
 ⚡ *Co-founder & CEO of Sujesst Infotech*
+
 *https://sujesst-tech.netlify.app/*
+
 🌍 *Building Rootimus Prime Linux & empowering open-source communities*
 
 ---
